@@ -1,4 +1,4 @@
-# Appcent Debezium Uygulaması
+# Debezium Uygulaması
 
 Bu uygulama, Debezium source ve sink connector'larını içeren bir Docker paketidir. İşte uygulamanın kullanımına dair adımlar:
 
